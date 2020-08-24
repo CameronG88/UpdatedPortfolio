@@ -1,14 +1,10 @@
-# gatsby-starter-dimension
+# Cams Portfolio
 
-**This is a starter for Gatsby.js V2.**
+This is my initial web developer portfolio after about 3 months experience coding. I used a Gatsby starter as the base for the site and if you would like to do the same head to https://www.gatsbyjs.com/ to get started and then follow the installation below.
 
-**The older V1 version of this starter can be found on the v1 branch:**
-
-Gatsby.js V2 starter based on the Dimension site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
-
-## Preview
-
-https://gatsby-dimension.surge.sh/
+## Links
+  - (https://github.com/CameronG88/UpdatedPortfolio)
+  - (https://cam-portfolio-1.herokuapp.com/)
 
 ## Installation
 
