@@ -31,9 +31,9 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Bandify</h2>
-          <span className="image main">
+          <a className="image main" href="https://camerong88.github.io/Bandify/" target="blank">
             <img src={Bandifyshot} alt="" />
-          </span>
+          </a>
           <p>
           Bandify is an app that allows you to stream music from your favorite artists while simultaneously giving you quick access to artist information. Using the dropdown menu, you can select whether you want to search by artist or album. Whichever criteria you search by, the appropriate response will populate the page.
           </p>
@@ -48,9 +48,9 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">X-Files</h2>
-          <span className="image main">
+          <a className="image main" href="https://murmuring-reef-63999.herokuapp.com/" target= "blank">
             <img src={Xfilesshot} alt="" />
-          </span>
+          </a>
           <p>
           X-Files is an satirical App that allows a user to search for recorded UFO Sightings. It allows to choose the sighting by location,time frame and other options and read the witness' report.</p>
           {close}
@@ -64,9 +64,9 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Note Taker</h2>
-          <span className="image main">
+          <a className="image main" href="https://serene-depths-54345.herokuapp.com/" target="blank">
             <img src={Noteshot} alt="" />
-          </span>
+          </a>
           <p>
           An application that can be used to write, save, and delete notes. This application uses an express backend that saves and retrieves the notes from a JSON file. It's a simple to-do app to help you do what you need.. to-do!
           </p>
@@ -99,9 +99,9 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">WeatherHub</h2>
-          <span className="image main">
+          <a className="image main" href= "https://camerong88.github.io/WeatherHub/" target= "blank">
             <img src={Weatherhubshot} alt="" />
-          </span>
+          </a>
           <p>
           This project was to code out a web page that displays current weather info about a searched city and a 5 day forecast as well. It displays the current; Temp(F), Humidity, Wind Speed, and UV Index while forecasting the Temperature and chance of humdidity for the upcoming week. 
           </p>
